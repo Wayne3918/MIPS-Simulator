@@ -1,0 +1,4 @@
+lui R1 0xc000
+sra R2 R1 30
+jr 4
+end

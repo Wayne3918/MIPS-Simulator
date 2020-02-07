@@ -1,0 +1,5 @@
+jal 3
+addi R0 R0 0
+addi R0 R0 0
+add R2 R2 31
+jr R4

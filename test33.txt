@@ -1,0 +1,5 @@
+addi R1 R1 1
+bgezal R1 0
+nop
+add R2 R2 R31
+jr R4

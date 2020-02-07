@@ -1,0 +1,4 @@
+addi R3 R3 0B010011
+addi R1 R1 0B011100
+xor R2 R1 R3
+jr r4

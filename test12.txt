@@ -1,0 +1,5 @@
+addi R3 R3 20
+addi R1 R1 5
+div R3 R1
+mflo R2
+jr R4

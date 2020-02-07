@@ -1,0 +1,8 @@
+addi R1 R1 5
+j 5
+add R2 R2 R1
+add R2 R2 R1
+add R2 R2 R1
+add R2 R2 R1
+add R2 R2 R1
+jr R4

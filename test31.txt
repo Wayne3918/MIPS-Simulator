@@ -1,0 +1,6 @@
+addi R3 R3 -5
+addi R1 R1 1
+add R3 R3 1
+add R2 R2 1
+bltz R3 -3
+jr R4

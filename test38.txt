@@ -1,5 +1,0 @@
-lui R1 0X2000
-addi R3 R3 8
-sb R3 R1 4
-lb R2 R1 4
-jr R4

@@ -1,0 +1,9 @@
+lui R1 0x1000
+addi R1 R1 24
+jr R1
+addi R2 R2 1
+addi R2 R2 1
+addi R2 R2 1
+addi R2 R2 1
+addi R2 R2 1
+jr R4

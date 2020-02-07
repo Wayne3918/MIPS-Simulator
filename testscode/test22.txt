@@ -1,0 +1,5 @@
+addi R3 R3 0b010011
+addi R1 R1 0b011100
+or R2 R1 R3
+jr R4
+end

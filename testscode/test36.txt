@@ -1,0 +1,8 @@
+lui R1 0B1000
+addi R1 R1 24
+jalr R2 R1
+addi R3 R3 1
+addi R3 R3 1
+addi R3 R3 1
+addi R3 R3 1
+jr R4

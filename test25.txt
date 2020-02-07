@@ -1,4 +1,0 @@
-addi R1 R1 0B010011
-andi R2 R1 0B110110
-jr 4
-end

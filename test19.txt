@@ -1,6 +1,0 @@
-lui R1 0X8002
-lui R2 0X8002
-multu R1 R2
-mfhi R2
-jr R4
-end

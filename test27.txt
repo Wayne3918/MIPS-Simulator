@@ -1,3 +1,0 @@
-addi R1 R0 19
-xori R2 R1 54
-jr R4

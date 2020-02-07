@@ -1,5 +1,0 @@
-addi R3 R3 5
-addi R1 R1 3
-sub R2 R1 R3
-jr 4
-end

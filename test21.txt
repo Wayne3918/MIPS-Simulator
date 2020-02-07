@@ -1,4 +1,0 @@
-lui R1 0X6000
-lui R2 0XA000
-sub R2 R1 R2
-jr R4

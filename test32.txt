@@ -1,5 +1,0 @@
-addi R1 R1 -1
-bltzal R1 0
-nop
-add R2 R2 31
-jr R4

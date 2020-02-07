@@ -1,3 +1,0 @@
-lui R1 0xc000
-sll R2 R1 30
-jr R4

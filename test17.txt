@@ -1,5 +1,0 @@
-addi R3 R3 3
-addi R1 R1 4
-sllv R2 R3 R1
-jr R4
-end

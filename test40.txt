@@ -1,6 +1,0 @@
-lui R1 8192
-lui R3 4
-addi R3 R3 4
-sw R3 R1 8
-lw R2 R1 8
-jr R4

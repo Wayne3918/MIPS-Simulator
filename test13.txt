@@ -1,6 +1,0 @@
-lui r0 0xa000
-lui r1 0x5000
-divu r0 r1
-mflo 2
-jr r4
-end

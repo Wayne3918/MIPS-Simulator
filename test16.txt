@@ -1,3 +1,0 @@
-addi R1 R1 3
-sll R2 R1 1
-jr 4
